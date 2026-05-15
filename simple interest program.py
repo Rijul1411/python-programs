@@ -10,12 +10,4 @@ print("calculated Simple Interest :", SI)
 Total_amount = int(principal + SI)
 print('Total Amount on Maturity:',Total_amount)
 
-L= int(input(' Enter length of rectangle here :'))
-B = int(input(' Enter breadth of rectangle here :'))
 
-Area = (L*B)
-Perimeter = (2*(L*B))
-
-print("Area of rectangle:", Area)
-print("Perimeter of rectangle:", Perimeter)
-                          
